@@ -9,5 +9,5 @@ pYsnake uses the following technologies:
 + Python
 + Python(Turtle)
 
-If you want to contribute to this project, then have a look [here].(https://github.com/archi-007/pYsnake/blob/main/CONTRIBUTING.md)<br>
+If you want to contribute to this project, then have a look [here](https://github.com/archi-007/pYsnake/blob/main/CONTRIBUTING.md).<br>
 Make valid changes to make the project better!<br> Also do refrain from spamming the repository to maintain the integrity of the open source community.
