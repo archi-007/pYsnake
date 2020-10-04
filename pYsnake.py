@@ -41,7 +41,7 @@ pen.color("white")
 pen.penup()
 pen.hideturtle()
 pen.goto(0, 260)
-pen.write("score: 0  high score: 0", align="center", font=("Courier", 24, "normal"))
+pen.write("score: 0  high score: 0", align="center", font=("Arial", 24, "normal"))
 
 # Functions
 def go_up():
@@ -108,7 +108,7 @@ while True:
         delay = 0.1
 
         pen.clear()
-        pen.write("score: {}  high score: {}".format(score, high_score), align="center", font=("Courier", 24, "normal")) 
+        pen.write("score: {}  high score: {}".format(score, high_score), align="center", font=("Arial", 24, "normal")) 
 
 
     # Check for a collision with the food
@@ -172,7 +172,7 @@ while True:
         
             # Update the score display
             pen.clear()
-            pen.write("Score: {}  High Score: {}".format(score, high_score), align="center", font=("Courier", 24, "normal"))
+            pen.write("Score: {}  High Score: {}".format(score, high_score), align="center", font=("Arial", 24, "normal"))
 
     time.sleep(delay)
 
